@@ -1,3 +1,6 @@
 [submodule "visualizations"]
 	path = visualizations
 	url = https://github.com/dystopiaGS/visualizations.git
+[submodule "slides"]
+	path = slides
+	url = https://github.com/dystopiaGS/slides.git
